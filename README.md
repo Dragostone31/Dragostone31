@@ -1,57 +1,67 @@
-<div align="center" width="50">
-    <img alt="Matias Candia" src="./assets/oh hi there.png" width="300"/>
+<div align="center">
+    <img alt="Matias Candia" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueXQ1eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaS9q/giphy.gif" width="300"/>
 </div>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola, soy Matías</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Dragostone31?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Dragostone31?style=social) <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB" alt="Matias Candia" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Dragostone31?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Dragostone31?style=flat-square&logo=github&label=Stars" alt="GitHub stars" />
+</p>
 
 ## Sobre Mí :
 
-- [cite_start]🏢 Experiencia previa  como **Desarrollador Full-Stack n8n** en Aintelligence 
-- [cite_start]🏢 Experiencia previa como **Técnico Informático** en STBMSG Ingeniería 
-- [cite_start]🎓 **Técnico Analista Programador** graduado de INACAP [cite: 14, 15]
-- [cite_start]🎓 Ex-alumno de la **Escuela Pre-Militar Lautaro** (Cabo Primero) [cite: 11, 12]
-- [cite_start]🏡 Vivo en **Machalí / Rancagua, Chile** 
-- ⚡ **Intereses** : ⚙️ Automatización, 🕹️ Gaming, 🏋️ Gym, 🎞️ Anime.
+* 🏢 Actualmente trabajando como **Desarrollador Full-Stack n8n** en Aintelligence
+* 🏢 Experiencia previa como **Técnico Informático** en STBMSG Ingeniería
+* 🎓 **Técnico Analista Programador** graduado de INACAP
+* 🎓 Ex-alumno de la **Escuela Pre-Militar Lautaro** (Cabo Primero)
+* 🏡 Vivo en **Machalí / Rancagua, Chile**
+* ⚡ **Intereses**: ⚙️ Automatización, 🕹️ Gaming, 🏋️ Gym, 🎞️ Anime.
 
 <br>
 
 ## Conecta conmigo ☕ :
 
-<br>
-
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/matiascandiaplaza/) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png "Candiamatias1997@gmail.com")](mailto:Candiamatias1997@gmail.com) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "+56958949416")](tel:+56958949416)
+<p align="left">
+<a href="https://www.linkedin.com/in/matiascandiaplaza/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matias Candia" /></a>
+<a href="mailto:Candiamatias1997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <br>
 
 ## Tecnologías y Herramientas 🧑‍💻 :
 
-<br>
-
 ### Lenguajes y Desarrollo
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Automatización y Bases de Datos
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-n8n-io-a-node-based-workflow-automation-tool-logo-shadow-tal-revivo.png" title="n8n"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mariadb.png" title="MariaDB"/>
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### CMS y Herramientas
-<img src="https://img.icons8.com/fluency/48/000000/wordpress.png" title="WordPress"/> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/microsoft-office.png" title="Office"/>
+### Herramientas y Soporte
+![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br>
 
 ## GitHub Stats 📈 :
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dragostone31&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dragostone31&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Matias Stats](https://github-readme-stats.vercel.app/api?username=Dragostone31&theme=algolia)](https://github.com/Dragostone31/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragostone31&theme=algolia&layout=compact)](https://github.com/Dragostone31/github-readme-stats)
+### Top Languages & Skills 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
 
-## Actividad 📊 :
-
-<br>
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dragostone31&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://img.shields.io/badge/Repo_Stats-Dragostone31-blue?style=flat-square&logo=github" alt="Stats Summary" />
+</p>
