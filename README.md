@@ -11,7 +11,7 @@
 
 ## Sobre Mí :
 
-* 🏢 Actualmente trabajando como **Desarrollador Full-Stack n8n** en Aintelligence
+* 🏢 Experiencia previa como **Desarrollador Full-Stack n8n** en Aintelligence
 * 🏢 Experiencia previa como **Técnico Informático** en STBMSG Ingeniería
 * 🎓 **Técnico Analista Programador** graduado de INACAP
 * 🎓 Ex-alumno de la **Escuela Pre-Militar Lautaro** (Cabo Primero)
